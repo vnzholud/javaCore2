@@ -1,3 +1,5 @@
+package interfeses;
+
 public interface Ploshad {
 
      default int RezPlochKvadrat() {

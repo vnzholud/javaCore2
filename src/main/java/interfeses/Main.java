@@ -1,3 +1,5 @@
+package interfeses;
+
 import java.util.Scanner;
 
 public class Main {

@@ -1,3 +1,5 @@
+package interfeses;
+
 public class Krug implements Ploshad, Forma{
     int r;
 

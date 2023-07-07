@@ -1,3 +1,5 @@
+package interfeses;
+
 public class Kvadrat implements Ploshad, Forma{
     int a;
     int b;
